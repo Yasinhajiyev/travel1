@@ -1,0 +1,192 @@
+.special{
+    .offers{position: relative;
+        
+        &:hover{
+            transition: .3s;.down2-a a{
+            top: 270px;
+            transition: .3s;
+            opacity: 1;
+        }
+       
+        
+    h2{
+        top: 100px;
+        transition: .3s;
+    }
+    p{
+        top: 170px;
+        transition: .3s;
+
+    }
+    transform: scale(1.01);
+    
+    img{transition: .3s;
+        
+    }
+    
+    
+   
+    
+
+
+    }
+        .down1-a a{
+            padding: 10px;
+            background-color: #FA5636;
+            color: white;
+            border-radius:5px;
+            position: absolute;
+            top: 35px;
+            left: 35px;
+            
+        }
+        h2{
+            font-weight: 450;
+    font-size: 35px;
+    position: absolute;
+    left: 25px;
+    top: 120px;
+    transition: .3s;
+    color: white;
+        }
+        p{
+            position: absolute;
+            top: 190px;
+            left: 25px;
+    font-size: 14px;
+    transition: .3s;color: white;
+        }
+        .down2-a a{
+            padding: 10px;
+            color:white;
+            border:solid 1px white;
+            position: absolute;
+            top: 370px;
+            left: 25px;
+            transition: .3s;
+            opacity: 0;
+
+        }
+
+    }
+    .newsletters{position: relative;
+        &:hover{a{
+            top:320px;
+            left: 28px;
+            transition: .3s;
+            opacity: 1;
+        }
+    p{
+        top: 180px;
+        left: 25px;
+        transition: .3s;
+    }
+h2{
+    top: 120px;
+    left: 30px;
+    transition: .3s;
+}}
+        i{position: absolute;
+            top: 20px;
+            left: 30px;
+            font-size: 30px;
+            color: white;
+            
+        }
+h2{
+    position: absolute;
+top: 150px;
+left: 30px;
+color: white;
+transition: .3s;
+}    
+p{
+    position: absolute;
+    top: 200px;
+    left: 24px;
+    color: white;
+transition: .3s;
+}    
+a{padding: 10px;
+    position: absolute;
+    top: 397px;
+    left: 28px;
+    color: white;
+    border: 1px solid white;
+    opacity: 0;
+    transition: .3s;
+    text-decoration: none;
+}
+
+    }
+    .travel{position: relative;
+        &:hover{a{ top:320px;
+            left: 28px;
+            transition: .3s;
+            opacity: 1;
+
+        }
+    h2{top: 120px;
+        left: 12px;
+        transition: .3s;}
+        p{
+            top: 180px;
+            left: 12px;
+            transition: .3s;
+        }
+    }
+    
+        i{position: absolute;
+            font-size: 30px;
+            top: 20px;
+            left: 30px;
+            color: white;
+        }
+        h2{
+            position: absolute;
+            top: 150px;
+            left: 12px;
+transition: .3s;
+color: white;
+            
+        }
+        a{
+            
+            padding: 10px;
+    position: absolute;
+    top: 397px;
+    left: 28px;
+    border: 1px solid white;
+    transition: .3s;
+    text-decoration: none;
+    opacity: 0;
+    color: white;
+        }
+        p{position: absolute;
+            top: 200px;
+            left: 12px;
+        transition: .3s;
+    color: white;}
+    }
+}
+.tour{
+    ul{
+        .dropped-menu{position: relative;
+            li{position: relative;
+                
+                transform: translateX(64.5px);
+                border: 1px solid grey;
+                width: 8%;
+                list-style: none;
+                cursor: pointer;
+                text-align: center;
+
+            }
+            display: none;
+            &.active{
+                display: block;
+            }
+
+        }
+    }
+}
